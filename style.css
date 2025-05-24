@@ -120,7 +120,7 @@ button:nth-child(2):hover{
     width: 30rem;
 }
 .circle:nth-child(2){
-    background-image: url(image/IMG_20250125_113847_enhanced.jpg.png);
+    background-image: url("photo.jpeg")
     width: 22rem;
     background-size: 100%;
     background-repeat: no-repeat;
